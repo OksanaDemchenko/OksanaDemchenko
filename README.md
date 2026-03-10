@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Oksana Demchenko
 
-<!--
-**OksanaDemchenko/OksanaDemchenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Junior Fullstack Developer  
 
-Here are some ideas to get you started:
+I am currently studying web development and building projects using modern technologies. I enjoy creating responsive websites and improving my programming skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🧰 Tech Stack
+
+HTML | CSS | JavaScript | Node.js | Express | MongoDB | Git | GitHub
+
+
+## 💻 Featured Projects
+
+🔹 [WebStudio HTML](https://github.com/OksanaDemchenko/goit-markup-hw-01)  
+Semantic HTML markup of the WebStudio landing page.
+
+🔹 [WebStudio CSS](https://github.com/OksanaDemchenko/goit-markup-hw-02)  
+Responsive layout and styling using CSS.
+
+
+## 🗣️ Languages
+
+Ukrainian — Native  
+English — Intermediate  
+
+
+## 📫 How to reach me
+
+GitHub: https://github.com/OksanaDemchenko
