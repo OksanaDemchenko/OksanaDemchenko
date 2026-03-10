@@ -24,7 +24,7 @@ https://github.com/OksanaDemchenko/goit-js-hw-12
 
 🔹 Notes REST API  
 Backend API built with Node.js, Express and MongoDB.  
-https://github.com/OksanaDemchenko/notes-api
+https://github.com/OksanaDemchenko/nodejs-hw
 
 ## 🗣️ Languages
 
