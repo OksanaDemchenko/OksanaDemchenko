@@ -12,12 +12,17 @@ HTML | CSS | JavaScript | Node.js | Express | MongoDB | Git | GitHub
 
 ## 💻 Featured Projects
 
-🔹 [WebStudio HTML](https://github.com/OksanaDemchenko/goit-markup-hw-01)  
-Semantic HTML markup of the WebStudio landing page.
+🔹 WebStudio Responsive Website  
+HTML/CSS project with responsive layout, modal window and SVG icons.  
+https://github.com/OksanaDemchenko/goit-markup-hw-05
 
-🔹 [WebStudio CSS](https://github.com/OksanaDemchenko/goit-markup-hw-02)  
-Responsive layout and styling using CSS.
+🔹 JavaScript Application  
+Interactive web application built with JavaScript and DOM manipulation.  
+https://github.com/OksanaDemchenko/goit-js-hw-03
 
+🔹 Notes REST API  
+Backend API built with Node.js, Express and MongoDB.  
+https://github.com/OksanaDemchenko/notes-api
 
 ## 🗣️ Languages
 
