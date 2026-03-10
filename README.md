@@ -14,11 +14,11 @@ HTML | CSS | JavaScript | Node.js | Express | MongoDB | Git | GitHub
 
 🔹 WebStudio Responsive Website  
 HTML/CSS project with responsive layout, modal window and SVG icons.  
-https://github.com/OksanaDemchenko/goit-markup-hw-05
+https://github.com/OksanaDemchenko/goit-markup-hw-06
 
 🔹 JavaScript Application  
 Interactive web application built with JavaScript and DOM manipulation.  
-https://github.com/OksanaDemchenko/goit-js-hw-03
+https://github.com/OksanaDemchenko/goit-js-hw-12
 
 🔹 Notes REST API  
 Backend API built with Node.js, Express and MongoDB.  
