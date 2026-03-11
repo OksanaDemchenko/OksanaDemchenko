@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Oksana Demchenko
 
-💻 Junior Fullstack Developer  
+💻 Junior Frontend Developer  
 
 I am currently studying web development and building projects using modern technologies.  
 I enjoy creating responsive websites and learning backend development with Node.js.
@@ -9,7 +9,7 @@ I enjoy creating responsive websites and learning backend development with Node.
 ## 🧰 Tech Stack
 
 HTML5 | CSS3 | JavaScript | Node.js  
-Express | MongoDB | Git | GitHub
+Express | MongoDB | Git | GitHub | React | Next.js
 
 
 ## 💻 Featured Projects
